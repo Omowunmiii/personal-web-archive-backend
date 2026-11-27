@@ -2,8 +2,8 @@
 
 Links rot. Pages get edited, paywalled or deleted, and a bookmark only saves the address, not what the page said. This app lets a user save any URL and keep a private, searchable copy of the page's text as it was when they saved it. It re-checks saved pages on a schedule and flags the ones that have **changed** or **disappeared**.
 
-**Live app:** YOUR_VERCEL_LINK
-**API:** YOUR_RENDER_LINK
+**Live app:** [https://personal-web-archive-frontend.vercel.app/](https://personal-web-archive-frontend.vercel.app/)
+**API:** [YOUR_RENDER_LINK](https://personal-web-archive-backend.onrender.com)
 **Note:** the backend is on a free tier and sleeps when idle, so the first request can take about a minute.
 
 ## What it does
